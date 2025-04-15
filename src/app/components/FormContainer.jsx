@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import { Header } from ".";
-import { motion } from "framer-motion";
+import { motion } from "motion/react";
 import { Step1, Step2, Step3, Step4 } from "./Steps";
 import { ButtonContainer } from "./ButtonContainer";
 import { Header2 } from "./Header";
